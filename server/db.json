@@ -1,0 +1,354 @@
+{
+  "tasks": [
+    {
+      "id": "1",
+      "title": "Complete project report",
+      "date": "2024-12-20",
+      "timeStart": "10:00 AM",
+      "timeEnd": "12:00 PM",
+      "priority": 8,
+      "description": "Write and finalize the project report for submission.",
+      "completeState": false
+    },
+    {
+      "id": "4",
+      "title": "Client presentation",
+      "date": "2024-12-23",
+      "timeStart": "03:00 PM",
+      "timeEnd": "05:00 PM",
+      "priority": 10,
+      "description": "Present the project updates to the client and gather feedback.",
+      "completeState": false
+    },
+    {
+      "id": "5",
+      "title": "Write documentation",
+      "date": "2024-12-24",
+      "timeStart": "09:00 AM",
+      "timeEnd": "12:00 PM",
+      "priority": 6,
+      "description": "Prepare technical documentation for the new feature.",
+      "completeState": false
+    },
+    {
+      "id": "6",
+      "title": "Weekly review",
+      "date": "2024-12-25",
+      "timeStart": "04:00 PM",
+      "timeEnd": "05:00 PM",
+      "priority": 5,
+      "description": "Review the weekly progress with the team.",
+      "completeState": true
+    },
+    {
+      "id": "8",
+      "title": "Conduct user testing",
+      "date": "2024-12-27",
+      "timeStart": "01:00 PM",
+      "timeEnd": "03:00 PM",
+      "priority": 9,
+      "description": "Organize and oversee a user testing session for the mobile app.",
+      "completeState": false
+    },
+    {
+      "id": "9",
+      "title": "Prepare budget report",
+      "date": "2024-12-28",
+      "timeStart": "09:00 AM",
+      "timeEnd": "11:00 AM",
+      "priority": 7,
+      "description": "Compile and review the annual budget report for the finance team.",
+      "completeState": false
+    },
+    {
+      "id": "10",
+      "title": "Set up team workspace",
+      "date": "2024-12-29",
+      "timeStart": "10:00 AM",
+      "timeEnd": "12:00 PM",
+      "priority": 6,
+      "description": "Organize and configure the shared team workspace for better collaboration.",
+      "completeState": false
+    },
+    {
+      "id": "11",
+      "title": "Complete project report",
+      "date": "2024-12-20",
+      "timeStart": "10:00 AM",
+      "timeEnd": "12:00 PM",
+      "priority": 8,
+      "description": "Write and finalize the project report for submission.",
+      "completeState": false
+    },
+    {
+      "id": "12",
+      "title": "Complete project report",
+      "date": "2024-12-20",
+      "timeStart": "10:00 AM",
+      "timeEnd": "12:00 PM",
+      "priority": 8,
+      "description": "Write and finalize the project report for submission.",
+      "completeState": false
+    },
+    {
+      "id": "13",
+      "title": "Organize team-building event",
+      "date": "2025-01-02",
+      "timeStart": "10:00 AM",
+      "timeEnd": "01:00 PM",
+      "priority": 7,
+      "description": "Plan a team-building activity to improve communication and collaboration among team members.",
+      "completeState": false
+    },
+    {
+      "id": "14",
+      "title": "Draft newsletter",
+      "date": "2025-01-03",
+      "timeStart": "09:00 AM",
+      "timeEnd": "11:30 AM",
+      "priority": 6,
+      "description": "Write the content for the January company newsletter.",
+      "completeState": false
+    },
+    {
+      "id": "15",
+      "title": "Conduct training session",
+      "date": "2025-01-04",
+      "timeStart": "02:00 PM",
+      "timeEnd": "05:00 PM",
+      "priority": 8,
+      "description": "Host a training session on advanced project management techniques.",
+      "completeState": false
+    },
+    {
+      "id": "16",
+      "title": "Research market trends",
+      "date": "2025-01-05",
+      "timeStart": "11:00 AM",
+      "timeEnd": "01:00 PM",
+      "priority": 9,
+      "description": "Analyze current market trends to identify potential opportunities for growth.",
+      "completeState": false
+    },
+    {
+      "id": "17",
+      "title": "Update website content",
+      "date": "2025-01-06",
+      "timeStart": "03:00 PM",
+      "timeEnd": "05:00 PM",
+      "priority": 5,
+      "description": "Revise and update the website content for the new product launch.",
+      "completeState": false
+    },
+    {
+      "id": "18",
+      "title": "Develop social media plan",
+      "date": "2025-01-07",
+      "timeStart": "09:30 AM",
+      "timeEnd": "12:00 PM",
+      "priority": 8,
+      "description": "Create a social media strategy to promote the upcoming campaign.",
+      "completeState": false
+    },
+    {
+      "id": "19",
+      "title": "Prepare annual performance reviews",
+      "date": "2025-01-08",
+      "timeStart": "10:00 AM",
+      "timeEnd": "01:00 PM",
+      "priority": 9,
+      "description": "Compile feedback and performance metrics for team members' annual reviews.",
+      "completeState": false
+    },
+    {
+      "id": "20",
+      "title": "Test new software release",
+      "date": "2025-01-09",
+      "timeStart": "02:00 PM",
+      "timeEnd": "05:00 PM",
+      "priority": 8,
+      "description": "Run test cases on the new software update to ensure quality and functionality.",
+      "completeState": false
+    },
+    {
+      "id": "21",
+      "title": "Host client onboarding session",
+      "date": "2025-01-10",
+      "timeStart": "11:00 AM",
+      "timeEnd": "01:00 PM",
+      "priority": 7,
+      "description": "Conduct a detailed walkthrough of the product for new clients.",
+      "completeState": false
+    },
+    {
+      "id": "22",
+      "title": "Plan quarterly goals",
+      "date": "2025-01-11",
+      "timeStart": "09:00 AM",
+      "timeEnd": "12:00 PM",
+      "priority": 10,
+      "description": "Set measurable goals for the next quarter and outline a strategy to achieve them.",
+      "completeState": false
+    },
+    {
+      "id": "23",
+      "title": "Organize inventory records",
+      "date": "2025-01-12",
+      "timeStart": "01:00 PM",
+      "timeEnd": "03:00 PM",
+      "priority": 6,
+      "description": "Update and reorganize the inventory records to improve tracking accuracy.",
+      "completeState": false
+    },
+    {
+      "id": "24",
+      "title": "Prepare keynote presentation",
+      "date": "2025-01-13",
+      "timeStart": "03:30 PM",
+      "timeEnd": "06:00 PM",
+      "priority": 9,
+      "description": "Design slides and content for the upcoming keynote presentation.",
+      "completeState": false
+    },
+    {
+      "id": "25",
+      "title": "Write blog post on industry trends",
+      "date": "2025-01-14",
+      "timeStart": "10:00 AM",
+      "timeEnd": "12:00 PM",
+      "priority": 8,
+      "description": "Draft an in-depth article covering the latest trends and insights in the industry.",
+      "completeState": false
+    },
+    {
+      "id": "26",
+      "title": "Conduct data analysis",
+      "date": "2025-01-15",
+      "timeStart": "02:00 PM",
+      "timeEnd": "05:00 PM",
+      "priority": 9,
+      "description": "Analyze collected data to identify patterns and opportunities for improvement.",
+      "completeState": false
+    },
+    {
+      "id": "27",
+      "title": "Review legal compliance policies",
+      "date": "2025-01-16",
+      "timeStart": "11:00 AM",
+      "timeEnd": "01:00 PM",
+      "priority": 7,
+      "description": "Ensure all operations and policies comply with the latest legal requirements.",
+      "completeState": false
+    },
+    {
+      "id": "28",
+      "title": "Create employee handbook",
+      "date": "2025-01-17",
+      "timeStart": "09:30 AM",
+      "timeEnd": "12:30 PM",
+      "priority": 6,
+      "description": "Compile and organize company policies and procedures into a comprehensive employee handbook.",
+      "completeState": false
+    },
+    {
+      "id": "29",
+      "title": "Plan outreach campaign",
+      "date": "2025-01-18",
+      "timeStart": "01:00 PM",
+      "timeEnd": "03:00 PM",
+      "priority": 8,
+      "description": "Develop a strategy for reaching out to potential partners and clients.",
+      "completeState": false
+    },
+    {
+      "id": "30",
+      "title": "Schedule software maintenance",
+      "date": "2025-01-19",
+      "timeStart": "03:30 PM",
+      "timeEnd": "05:30 PM",
+      "priority": 5,
+      "description": "Coordinate with the IT team to schedule routine software updates and maintenance.",
+      "completeState": false
+    },
+    {
+      "id": "31",
+      "title": "Finalize holiday marketing campaign",
+      "date": "2024-12-20",
+      "timeStart": "10:00 AM",
+      "timeEnd": "01:00 PM",
+      "priority": 9,
+      "description": "Review and approve all materials for the holiday marketing campaign.",
+      "completeState": false
+    },
+    {
+      "id": "32",
+      "title": "Prepare year-end financial report",
+      "date": "2024-12-21",
+      "timeStart": "09:00 AM",
+      "timeEnd": "12:00 PM",
+      "priority": 10,
+      "description": "Compile all financial data for the year and generate a comprehensive report.",
+      "completeState": false
+    },
+    {
+      "id": "34",
+      "title": "Conduct December performance reviews",
+      "date": "2024-12-23",
+      "timeStart": "11:00 AM",
+      "timeEnd": "02:00 PM",
+      "priority": 8,
+      "description": "Meet with team members to provide feedback and discuss performance goals.",
+      "completeState": false
+    },
+    {
+      "id": "35",
+      "title": "Complete inventory check",
+      "date": "2024-12-24",
+      "timeStart": "10:00 AM",
+      "timeEnd": "01:00 PM",
+      "priority": 6,
+      "description": "Audit inventory to ensure accurate records before the end of the year.",
+      "completeState": false
+    },
+    {
+      "id": "36",
+      "title": "Send out client holiday greetings",
+      "date": "2024-12-25",
+      "timeStart": "09:30 AM",
+      "timeEnd": "11:30 AM",
+      "priority": 5,
+      "description": "Prepare and send personalized holiday greetings to clients.",
+      "completeState": true
+    },
+    {
+      "id": "37",
+      "title": "Plan January kickoff meeting",
+      "date": "2024-12-26",
+      "timeStart": "02:00 PM",
+      "timeEnd": "04:00 PM",
+      "priority": 8,
+      "description": "Draft the agenda and key objectives for the January team meeting.",
+      "completeState": false
+    },
+    {
+      "id": "38",
+      "title": "Plan January kickoff meeting",
+      "date": "2024-12-26",
+      "timeStart": "02:00 PM",
+      "timeEnd": "04:00 PM",
+      "priority": 8,
+      "description": "Draft the agenda and key objectives for the January team meeting.",
+      "completeState": true
+    },
+    {
+      "id": "40",
+      "title": "Review company goals for 2025",
+      "date": "2024-12-29",
+      "timeStart": "01:00 PM",
+      "timeEnd": "03:00 PM",
+      "priority": 7,
+      "description": "Evaluate progress toward current goals and adjust plans for 2025.",
+      "completeState": false
+    }
+  ]
+}
